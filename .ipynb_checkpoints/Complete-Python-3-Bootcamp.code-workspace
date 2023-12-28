@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Complete-Python-3-Bootcamp",
+			"path": "../../../Python 3 Bootcamp/Complete-Python-3-Bootcamp"
+		}
+	],
+	"settings": {
+		"r.lsp.promptToInstall": false
+	}
+}
